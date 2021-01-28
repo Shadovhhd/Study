@@ -1,0 +1,73 @@
+body {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal; }
+
+.t-text {
+  font-size: 14px;
+  line-height: 17px;
+  color: #718096; }
+
+.t-small {
+  font-size: 12px;
+  line-height: 15px; }
+
+.t-gray {
+  color: #718096; }
+
+.t-black {
+  color: #2D3748; }
+
+a {
+  text-decoration: none;
+  color: black; }
+
+.header__list-item a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+  line-height: 19px; }
+
+.header__bottom-title {
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 73px; }
+
+.header__bottom-subtitle {
+  font-size: 30px;
+  line-height: 36px;
+  color: #4A5568; }
+
+.blog__main-block h3 {
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 36px; }
+
+.blog__main-block h3 {
+  font-size: 20px;
+  line-height: 24px; }
+
+.more__block h3 {
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 48px; }
+.more__block p {
+  font-size: 16px;
+  line-height: 19px;
+  color: #718096; }
+.more__block .more__date {
+  font-size: 14px;
+  line-height: 17px;
+  color: #4A5568; }
+.more__block a {
+  font-weight: bold;
+  color: #000000; }
+
+.footer__text {
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000; }
+  .footer__text span {
+    font-weight: bold; }
+
+/*# sourceMappingURL=style.css.map */
